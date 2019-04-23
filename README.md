@@ -1,2 +1,2 @@
 # hello-world
-Just to follow the GitHub introductory exercise
+This is the original readme file placed in master when the project was first opened.

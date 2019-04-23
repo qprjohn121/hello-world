@@ -1,2 +1,2 @@
 # hello-world
-Just to follow the GitHub introductory exercise
+This is an edited version of the README file, held in a branch

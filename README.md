@@ -1,2 +1,2 @@
 # hello-world
-This is the original readme file placed in master when the project was first opened.
+This is an edited version of the README file, placed in a branch prior to being committed to the master branch.
